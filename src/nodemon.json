@@ -1,0 +1,4 @@
+{
+    "watch": ["/var/lib/crodont/"],
+    "ext": "go, html"
+}
